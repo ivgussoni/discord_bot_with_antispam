@@ -1,4 +1,4 @@
-# Discord Bot witn simple Anti-Spam
+# Discord Bot with simple Anti-Spam
 
 A simple discord bot that reads the text, replies, has commands, blocks and deletes messages with a simple anti-spam feature.
 
